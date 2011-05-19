@@ -18,7 +18,15 @@
 
 </sound>
 
+<sound event="m_chat_send"> <file>send_im.wav</file>
+
+</sound>
+
 <sound event="m_get"> <file>receive_im.wav</file>
+
+</sound>
+
+<sound event="m_chat_get"> <file>receive_im.wav</file>
 
 </sound>
 
