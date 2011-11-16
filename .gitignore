@@ -1,0 +1,7 @@
+CMakeLists.txt.user
+.directory
+.DS_Store
+*.kde4
+qtcreator-build
+*.user
+build
