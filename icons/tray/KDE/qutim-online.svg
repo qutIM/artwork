@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg14997"
    version="1.1"
-   inkscape:version="0.48.1 "
+   inkscape:version="0.48.3.1 r9886"
    width="1000"
    height="1000"
    sodipodi:docname="qutim-online.svg">
@@ -409,7 +409,7 @@
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:zoom="0.35355339"
-     inkscape:cx="470.44767"
+     inkscape:cx="-14.627583"
      inkscape:cy="500.501"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -468,6 +468,13 @@
      inkscape:label="Icon"
      style="display:inline"
      transform="translate(0,976)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none;opacity:0"
+       id="rect3058"
+       width="1000"
+       height="1000"
+       x="-1.7337426e-006"
+       y="-976" />
     <g
        id="g3125"
        transform="matrix(43.01576,0,0,43.01576,-953.91973,-959.9273)">
