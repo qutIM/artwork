@@ -6,7 +6,7 @@ Comment=Qutim project
 
 Hidden=false
 
-Directories=scalable/protocols,scalable/status,16x16/status,22x22/status,32x32/status,48x48/status,64x64/status
+Directories=scalable/protocols,scalable/status,16x16/status,20x20/status,22x22/status,24x24/status,32x32/status,48x48/status,64x64/status
 
 [scalable/protocols]
 MinSize=16
