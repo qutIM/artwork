@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg14997"
    version="1.1"
-   inkscape:version="0.48.1 "
+   inkscape:version="0.48.3.1 r9886"
    width="1000"
    height="1000"
    sodipodi:docname="qutim-offline.svg">
@@ -813,5 +813,12 @@
          inkscape:export-ydpi="23.039482"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:0;stroke:none;display:inline"
+       id="rect3058"
+       width="1000"
+       height="1000"
+       x="0"
+       y="-976" />
   </g>
 </svg>
