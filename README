@@ -1,17 +1,22 @@
-Основная иконка приложения Main
+Icons:
 
-Иконки для трея
-	- Default
-	- Faenza
-	- Ubuntu Mono Light
-	- Ubuntu Mono Dark
-	- Oxygen
-	- Win7
-
-Иконки для протоколов
-	- Jabber
-	- ICQ
-	- IRC
-	- Mail.ru
-	- MSN
-	- Gadu-gadu
+	Main icon
+	Main icon. Faenza theme
+	Main offline icom for MacDock
+	Icons for tray
+		- Default
+		- Faenza
+		- Faenza-Dark
+		- Ubuntu Mono Light
+		- Ubuntu Mono Dark
+		- Oxygen
+		- Win7
+	Icons for protocols
+		- Jabber
+		- ICQ
+		- IRC
+		- Mail.ru
+		- Skype
+		- vKontakte
+	Status icons
+	Webkit style icons
