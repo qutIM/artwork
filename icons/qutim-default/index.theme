@@ -6,9 +6,16 @@ Comment=Qutim project
 
 Hidden=false
 
-Directories=scalable/protocols,scalable/status,16x16/status,22x22/status,32x32/status,48x48/status,64x64/status
+Directories=scalable/protocols,scalable/actions,scalable/status,scalable/apps,16x16/protocols,16x16/status,22x22/protocol,22x22/status,32x32/protocol,32x32/status,48x48/protocol,48x48/status, 64x64/protocol,64x64/status
 
 [scalable/protocols]
+MinSize=16
+Size=128
+MaxSize=256
+Context=Actions
+Type=Scalable
+
+[scalable/actions]
 MinSize=16
 Size=128
 MaxSize=256
@@ -22,8 +29,27 @@ MaxSize=256
 Context=Actions
 Type=Scalable
 
+[scalable/apps]
+MinSize=1
+Size=128
+MaxSize=256
+Context=Actions
+Type=Scalable
+
+// Fixed
+
+[16x16/protocols]
+Size=16
+Context=Actions
+Type=Fixed
+
 [16x16/status]
 Size=16
+Context=Actions
+Type=Fixed
+
+[22x22/protocols]
+Size=22
 Context=Actions
 Type=Fixed
 
@@ -32,8 +58,18 @@ Size=22
 Context=Actions
 Type=Fixed
 
+[32x32/protocols]
+Size=32
+Context=Actions
+Type=Fixed
+
 [32x32/status]
 Size=32
+Context=Actions
+Type=Fixed
+
+[48x48/protocols]
+Size=48
 Context=Actions
 Type=Fixed
 
@@ -42,7 +78,12 @@ Size=48
 Context=Actions
 Type=Fixed
 
+[64x64/protocols]
+Size=64
+Context=Actions
+Type=Fixed
+
 [64x64/status]
 Size=64
 Context=Actions
-Type=Fixed 
+Type=Fixed
