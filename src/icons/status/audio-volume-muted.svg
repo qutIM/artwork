@@ -8044,7 +8044,7 @@
    inkscape:window-height="848"
    id="namedview29"
    showgrid="false"
-   inkscape:zoom="9.3371039"
+   inkscape:zoom="26.409318"
    inkscape:cx="15.480401"
    inkscape:cy="16.37905"
    inkscape:window-x="-8"
@@ -8116,9 +8116,9 @@
 </linearGradient>
 
 <path
-   id="path5332"
-   d="M 8 0.5 C 3.8461446 0.5 0.5 3.8461446 0.5 8 C 0.5 12.153855 3.8461446 15.5 8 15.5 C 12.153855 15.5 15.5 12.153855 15.5 8 C 15.5 3.8461446 12.153855 0.5 8 0.5 z M 8 3.65625 C 10.465292 3.65625 12.46875 5.5974453 12.46875 8 C 12.46875 10.402555 10.465292 12.34375 8 12.34375 C 5.5347077 12.34375 3.53125 10.402555 3.53125 8 C 3.53125 5.5974453 5.5347077 3.65625 8 3.65625 z "
-   style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><path
+   style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   d="M 8,0.5 C 3.8461446,0.5 0.5,3.8461446 0.5,8 c 0,4.153855 3.3461446,7.5 7.5,7.5 4.153855,0 7.5,-3.346145 7.5,-7.5 C 15.5,3.8461446 12.153855,0.5 8,0.5 z"
+   id="path4295" /><path
    style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#858585;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
    d="M 8,0 C 3.5776274,0 0,3.5776274 0,8 c 0,4.422372 3.5776274,8 8,8 4.422372,0 8,-3.577628 8,-8 C 16,3.5776274 12.422372,0 8,0 z m 0,1 c 3.885338,0 7,3.1146618 7,7 0,3.885338 -3.114662,7 -7,7 C 4.1146618,15 1,11.885338 1,8 1,4.1146618 4.1146618,1 8,1 z M 8,3.15625 C 5.2722378,3.15625 3.03125,5.3194832 3.03125,8 c 0,2.680517 2.2409878,4.84375 4.96875,4.84375 2.727762,0 4.96875,-2.163233 4.96875,-4.84375 C 12.96875,5.3194831 10.727762,3.15625 8,3.15625 z m 0,1 c 2.202822,0 3.96875,1.7191575 3.96875,3.84375 0,2.124593 -1.765928,3.84375 -3.96875,3.84375 C 5.7971776,11.84375 4.03125,10.124593 4.03125,8 4.03125,5.8754074 5.7971776,4.15625 8,4.15625 z"
    id="rect5317"
