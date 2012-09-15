@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=QutIM default
-Inherits=oxygen,hicolor
+Name=default
+Inherits=oxygen,Humanity,gnome,hicolor
 
 Comment=Qutim project
 
