@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256"
-   height="256"
+   width="16"
+   height="16"
    id="svg3301"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="user-busy.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="user-offline.svg">
   <defs
      id="defs3303" />
   <sodipodi:namedview
@@ -24,17 +24,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="192.14286"
-     inkscape:cy="182.85714"
+     inkscape:zoom="22.627417"
+     inkscape:cx="17.204783"
+     inkscape:cy="6.3601722"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="751"
-     inkscape:window-height="515"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0" />
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3306">
     <rdf:RDF>
@@ -43,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,27 +59,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-796.36218)">
-    <g
-       id="g4972"
-       inkscape:export-filename="/home/madnester/Рабочий стол/витва.png"
-       inkscape:export-xdpi="2.8124993"
-       inkscape:export-ydpi="2.8124993"
-       transform="matrix(0.5,0,0,0.5,-256,270.18127)">
-      <path
-         sodipodi:nodetypes="ccccssccccc"
-         inkscape:connector-curvature="0"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 852.91624,1052.3625 c -0.37408,0 -0.75264,0 -1.12784,0.014 -4.06576,0.16 -8.0843,1.072 -11.8423,2.7744 -103.32856,46.9171 -206.65675,93.8349 -309.988,140.7461 -15.32158,6.9568 -22.19879,25.2481 -15.24107,40.5665 l 140.78173,309.9443 c 6.95485,15.312 25.23725,22.1952 40.55646,15.2384 l 309.98798,-140.7617 c 15.3147,-6.9537 22.1983,-25.2481 15.2411,-40.5649 L 880.50257,1070.3593 c -5.04238,-11.1008 -15.99096,-17.8832 -27.58633,-17.9968 z"
-         id="path4319" />
-      <path
-         style="fill:#858585;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 842.51855,1092.4249 c -2.12277,0 -4.27018,0.56 -6.3314,1.488 l -274.58521,124.6642 c -8.2448,3.7456 -11.87105,13.408 -8.12686,21.6528 l 124.69731,274.5314 c 3.74419,8.2416 13.39533,11.8689 21.64014,8.1248 l 274.58525,-124.6785 c 8.24478,-3.7456 11.87108,-13.3952 8.12683,-21.6368 L 857.8273,1102.0234 c -2.80818,-6.1825 -8.9404,-9.7713 -15.30875,-9.5969 z m -14.90375,43.1937 c 5.09469,-0.176 9.99776,2.7328 12.24431,7.6784 l 99.76326,219.6386 c 2.99538,6.5936 0.0896,14.3072 -6.50688,17.3024 l -219.66821,99.7489 c -6.59582,2.9952 -14.31134,0.176 -17.3067,-6.5072 l -99.76325,-219.6354 c -2.99536,-6.5952 -0.0896,-14.3088 6.50688,-17.304 l 219.66818,-99.7489 c 1.64904,-0.736 3.36419,-1.136 5.06241,-1.168 z"
-         id="path4321"
-         inkscape:export-filename="C:\Users\Madnester\Desktop\Sketches\256.png"
-         inkscape:export-xdpi="23.039482"
-         inkscape:export-ydpi="23.039482"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(0,-1036.3622)">
+    <path
+       id="path4319-1"
+       d="m 10.653628,1036.3619 c -0.01169,0 -0.02352,0 -0.03524,4e-4 -0.127055,0.01 -0.252635,0.034 -0.370072,0.087 -3.2290177,1.4662 -6.4580237,2.9324 -9.68712468,4.3983 -0.4788,0.2174 -0.693713,0.789 -0.476284,1.2677 l 4.39942898,9.6858 c 0.217339,0.4785 0.788664,0.6936 1.26739,0.4762 l 9.6871237,-4.3988 c 0.478584,-0.2173 0.693697,-0.789 0.476284,-1.2677 l -4.399429,-9.6862 c -0.157574,-0.3469 -0.499717,-0.5589 -0.862072,-0.5624 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="23.039482"
+       inkscape:export-xdpi="23.039482"
+       inkscape:export-filename="C:\Users\Madnester\Desktop\Sketches\256.png"
+       id="path4321-7"
+       d="m 10.414952,1037.3621 c -0.0688,0 -0.138384,0.017 -0.205185,0.048 l -8.8985957,4.0407 c -0.267192,0.1214 -0.38470998,0.4345 -0.26337,0.7017 l 4.041117,8.8982 c 0.12134,0.2671 0.434108,0.3847 0.701301,0.2633 l 8.8985977,-4.0411 c 0.267191,-0.1214 0.384711,-0.4342 0.26337,-0.7012 l -4.041118,-8.8987 c -0.09101,-0.2003 -0.289735,-0.3167 -0.496117,-0.311 z m -0.4829917,1.4001 c 0.1651057,-0.01 0.3240027,0.088 0.3968067,0.2488 l 3.233068,7.1189 c 0.09708,0.2137 0.003,0.4637 -0.21087,0.5608 l -7.1188787,3.233 c -0.213753,0.097 -0.463794,0.01 -0.560865,-0.2108 l -3.233069,-7.1188 c -0.09707,-0.2138 -0.0029,-0.4639 0.210871,-0.5609 l 7.118877,-3.233 c 0.05344,-0.024 0.109025,-0.037 0.16406,-0.039 z"
+       style="fill:#656565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
 </svg>

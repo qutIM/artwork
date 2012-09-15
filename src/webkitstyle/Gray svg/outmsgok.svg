@@ -15,7 +15,7 @@
    id="svg4666"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Новый документ 2">
+   sodipodi:docname="outmsgok.svg">
   <defs
      id="defs4668">
     <radialGradient
@@ -39,11 +39,11 @@
        id="linearGradient3988-25">
       <stop
          id="stop3990-3"
-         style="stop-color:#858585;stop-opacity:1;"
+         style="stop-color:#656565;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3992-83"
-         style="stop-color:#858585;stop-opacity:0;"
+         style="stop-color:#656565;stop-opacity:0;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -64,11 +64,11 @@
        id="radialGradient3976-3">
       <stop
          id="stop3978-2"
-         style="stop-color:#858585;stop-opacity:1;"
+         style="stop-color:#656565;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3980-5"
-         style="stop-color:#858585;stop-opacity:0;"
+         style="stop-color:#656565;stop-opacity:0;"
          offset="1" />
     </radialGradient>
     <linearGradient
@@ -91,11 +91,11 @@
        id="linearGradient3988-97">
       <stop
          id="stop3990-5"
-         style="stop-color:#858585;stop-opacity:1;"
+         style="stop-color:#656565;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3992-3"
-         style="stop-color:#858585;stop-opacity:0;"
+         style="stop-color:#656565;stop-opacity:0;"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -118,11 +118,11 @@
        id="linearGradient3982-43">
       <stop
          id="stop3984-2"
-         style="stop-color:#858585;stop-opacity:1;"
+         style="stop-color:#656565;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3986-11"
-         style="stop-color:#858585;stop-opacity:0;"
+         style="stop-color:#656565;stop-opacity:0;"
          offset="1" />
     </linearGradient>
   </defs>
@@ -133,17 +133,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
+     inkscape:zoom="31.678384"
      inkscape:cx="9.668567"
      inkscape:cy="9.2268797"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="535"
-     inkscape:window-height="445"
-     inkscape:window-x="75"
-     inkscape:window-y="75"
-     inkscape:window-maximized="0" />
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3013" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4671">
     <rdf:RDF>
@@ -152,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -206,7 +210,7 @@
            inkscape:connector-curvature="0"
            id="path4600"
            d="m -7.437548,20.006983 c -0.16875,0.01543 -0.342563,0.05671 -0.5,0.125507 -3.033567,1.327955 -9.137572,3.978299 -9.261672,4.031914 -0.1241,0.05362 -0.36786,0.136089 -0.54297,0.321612 C -17.91188,24.665793 -18,24.884392 -18,25.152773 l 0,8.839114 c 0,0.556247 0.446,1.004056 1.000001,1.004056 l 13.000002,0 c 0.554,0 1,-0.447809 1,-1.004056 0,0 0,-6.253225 0,-6.598255 0,-0.345031 -0.214446,-0.918903 -0.297985,-1.088073 -0.642613,-1.301321 -2.108266,-4.24839 -2.889565,-5.796548 -0.268885,-0.362552 -0.743757,-0.548325 -1.250001,-0.502028 z m -0.21875,1.192317 c 0.25721,-0.02516 0.518078,0.06471 0.65625,0.251014 0.882807,1.559263 1.88755,3.668331 2.795766,5.57691 0.127711,0.26838 0.204234,0.570414 0.204234,0.868436 0,0.298022 0,5.594199 0,5.594199 0,0.285835 -0.215318,0.502028 -0.499999,0.502028 l -12.000002,0 c -0.284681,0 -0.500001,-0.216193 -0.500001,-0.502028 l 0,-7.835058 c 0,-0.177855 0.0859,-0.321295 0.218751,-0.407898 l 8.875002,-3.98485 c 0.0809,-0.03535 0.164262,-0.05437 0.249999,-0.06275 z"
-           style="fill:#858585;fill-opacity:1" />
+           style="fill:#656565;fill-opacity:1" />
         <path
            id="path4602"
            d="m -15.259803,24.787532 -1.65625,1 12.9999996,3.0625 0,-0.78125 -0.15625,-0.65625 -11.1874996,-2.625 z"
