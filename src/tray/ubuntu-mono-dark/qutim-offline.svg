@@ -383,7 +383,7 @@
       <stop
          id="stop3813"
          offset="1"
-         style="stop-color:#858585;stop-opacity:1" />
+         style="stop-color:#656565;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5319">
@@ -1518,7 +1518,7 @@
       <stop
          id="stop3813-2"
          offset="1"
-         style="stop-color:#858585;stop-opacity:1" />
+         style="stop-color:#656565;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5319-7">
@@ -1923,7 +1923,7 @@
          offset="0"
          id="stop3811-1-8" />
       <stop
-         style="stop-color:#858585;stop-opacity:1"
+         style="stop-color:#656565;stop-opacity:1"
          offset="1"
          id="stop3813-2-3" />
     </linearGradient>
@@ -3058,7 +3058,7 @@
          offset="0"
          id="stop3811-13" />
       <stop
-         style="stop-color:#858585;stop-opacity:1"
+         style="stop-color:#656565;stop-opacity:1"
          offset="1"
          id="stop3813-8" />
     </linearGradient>

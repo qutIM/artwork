@@ -21,7 +21,7 @@
     <linearGradient
        id="linearGradient3772">
       <stop
-         style="stop-color:#858585;stop-opacity:1;"
+         style="stop-color:#656565;stop-opacity:1;"
          offset="0"
          id="stop3774" />
       <stop
@@ -29,7 +29,7 @@
          offset="0.68615735"
          style="stop-color:#aaaaaa;stop-opacity:0.9955157;" />
       <stop
-         style="stop-color:#858585;stop-opacity:0;"
+         style="stop-color:#656565;stop-opacity:0;"
          offset="1"
          id="stop3776" />
     </linearGradient>
@@ -193,7 +193,7 @@
        inkscape:export-filename="C:\Users\Madnester\Desktop\Sketches\256.png"
        id="path4321"
        d="m 207.70833,873.87842 c -0.96442,-0.44321 -2.05696,-0.63714 -3.18717,-0.64589 L 53.742944,872.54018 c -4.527822,-0.0197 -8.192692,3.61301 -8.213038,8.14054 l -0.666073,150.76068 c -0.01968,4.5261 3.607705,8.1891 8.135219,8.2094 l 150.781228,0.6859 c 4.52781,0.02 8.19003,-3.6072 8.20968,-8.1333 l 0.66941,-150.76791 c 0.015,-3.39515 -2.02169,-6.30595 -4.95138,-7.55635 z m -15.78939,16.5121 c 2.35137,0.98374 3.97162,3.32897 3.95969,6.04491 l -0.53321,120.61577 c -0.0158,3.621 -2.94646,6.5188 -6.56874,6.5023 l -120.626257,-0.5459 c -3.621981,-0.016 -6.538692,-2.9081 -6.50418,-6.5698 l 0.532551,-120.61432 c 0.01614,-3.62173 2.946791,-6.5195 6.569072,-6.50302 l 120.626244,0.54592 c 0.90286,0.01 1.7656,0.18629 2.54382,0.52632 z"
-       style="fill:#858585;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#656565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <g
        id="g4279"
        transform="translate(0.8397528,32.091948)">
