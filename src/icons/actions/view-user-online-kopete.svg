@@ -20,13 +20,13 @@
    enable-background="new 0 0 595.28 841.89"
    xml:space="preserve"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="2341.svg"
+   sodipodi:docname="view-user-online-kopete.svg"
    inkscape:export-filename="D:\Hobby\QutIM\Images\q_outmsgok2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"><metadata
    id="metadata33"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs31"><linearGradient
      id="linearGradient4676"><stop
        style="stop-color:#f8f8f8;stop-opacity:1;"
@@ -8519,6 +8519,7 @@
 </linearGradient>
 
 <path
-   style="fill:#656565;fill-opacity:1;stroke:none;stroke-opacity:1"
-   d="M 8.375 0 C 5.3179981 -0.00036585558 2.8433841 2.474248 2.84375 5.53125 C 2.8439476 7.184092 3.5993315 8.6724278 4.75 9.6875 L 4.75 10.5625 C 4.7500943 11.350457 5.0550951 12.01219 5.5625 12.4375 L 5.5625 13.75 C 5.562593 14.526495 5.927166 15.174332 6.46875 15.53125 C 7.0103341 15.888167 7.6704489 15.999916 8.375 16 C 9.0795511 16.000085 9.7723502 15.888474 10.3125 15.53125 C 10.85265 15.174027 11.187592 14.525712 11.1875 13.75 L 11.1875 12.4375 C 11.695579 12.012339 12.031344 11.351152 12.03125 10.5625 L 12.03125 9.6875 C 13.184503 8.6719968 13.937698 7.2179955 13.9375 5.5625 C 13.937317 4.0343607 13.315514 2.6296692 12.3125 1.625 C 11.30948 0.6203364 9.9035011 0.00018285929 8.375 0 z "
-   id="rect3849" /></svg>
+   style="fill:#656565;fill-opacity:1;stroke:none"
+   d="M 8.4845063,0 C 5.4533383,-3.6585558e-4 2.9996367,2.474248 2.9999995,5.53125 3.0001954,7.184092 3.7491958,8.6724278 4.8901402,9.6875 l 0,0.875 c 9.35e-5,0.787957 0.3025169,1.44969 0.8056338,1.875 l 0,1.3125 c 9.22e-5,0.776495 0.3615843,1.424332 0.8985915,1.78125 0.5370073,0.356917 1.1915436,0.468666 1.8901408,0.46875 0.6985971,8.5e-5 1.3855415,-0.111526 1.9211267,-0.46875 0.535586,-0.357223 0.867697,-1.005538 0.867606,-1.78125 l 0,-1.3125 c 0.503785,-0.425161 0.836713,-1.086348 0.83662,-1.875 l 0,-0.875 C 13.253366,8.6719968 14.000196,7.2179955 13.999999,5.5625 13.999818,4.0343607 13.38327,2.6296692 12.388732,1.625 11.394188,0.6203364 10.000091,1.8285929e-4 8.4845063,0 z"
+   id="rect3849"
+   inkscape:connector-curvature="0" /></svg>
