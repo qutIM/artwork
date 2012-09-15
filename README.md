@@ -27,17 +27,6 @@
 * Skype
 * vKontakte
 
-### Status icons
-* Online
-* Offline
-* BRB
-* N/A
-* DND
-* Inviz
-* RTS 
-
-### Menu icons
-
 ![Build Status](http://storage1.static.itmages.ru/i/12/0820/h_1345465124_7547208_2788690691.png) Styles:
 -------
 
