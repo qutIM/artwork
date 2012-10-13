@@ -15,7 +15,7 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48+devel r11760"
    sodipodi:docname="qutim-0.2.svg">
   <defs
      id="defs4">
@@ -26,7 +26,7 @@
          offset="0"
          id="stop4685" />
       <stop
-         style="stop-color:#f8f8f8;stop-opacity:1;"
+         style="stop-color:#e1f2ff;stop-opacity:1"
          offset="1"
          id="stop4687" />
     </linearGradient>
@@ -82,10 +82,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4683"
        id="linearGradient4689"
-       x1="181.66983"
-       y1="-894.60045"
-       x2="349.88765"
-       y2="-894.60045"
+       x1="194.07709"
+       y1="-955.98322"
+       x2="328.98428"
+       y2="-828.69916"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1.6537915,-3.6419646)" />
     <linearGradient
@@ -107,10 +107,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7043185"
-     inkscape:cx="127.62891"
+     inkscape:cx="34.923233"
      inkscape:cy="145.36893"
      inkscape:document-units="px"
-     inkscape:current-layer="g3881"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="848"
