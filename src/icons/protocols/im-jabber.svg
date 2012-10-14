@@ -47,16 +47,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="24.463942"
-     inkscape:cy="161.47753"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="106.03376"
+     inkscape:cy="121.07143"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="852"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -86,11 +86,18 @@
        id="path3845"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sscsssscss" />
-    <path
-       style="font-size:48.64440536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fff9cc;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       d="m 94.755712,839.28303 -13.402755,9.30353 51.949533,69.88725 c 6.67605,8.99719 9.822,16.45138 9.52592,22.26202 -0.29614,5.81073 -3.78769,10.98727 -10.41206,15.61665 -4.59779,3.21314 -8.97251,5.05166 -13.29199,5.53781 -4.31948,0.4862 -8.01906,0.72225 -11.07666,0.55378 l 3.43377,15.28438 c 1.59378,0.26372 3.48322,0.35304 5.75986,0.22151 2.27663,-0.13149 4.77947,-0.48877 7.53213,-1.10756 2.75263,-0.61878 5.71561,-1.60443 8.75056,-2.87967 3.03491,-1.27521 6.06667,-3.02029 9.19363,-5.20555 6.16401,-4.30768 10.58798,-8.78089 13.29199,-13.51227 2.70392,-4.73132 4.09876,-9.63014 4.09836,-14.61983 -4.9e-4,-4.98961 -1.17354,-9.92988 -3.43376,-14.95211 -2.26031,-5.02211 -5.22199,-10.1196 -8.9721,-15.17362 L 94.755712,839.28303 z"
-       id="path3763"
-       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0.77400355,-0.54090708,0.63131073,0.85079656,0,0)"
+       sodipodi:linespacing="125%"
+       id="text3871"
+       y="818.11798"
+       x="-517.81073"
+       style="font-size:178.25109863px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fff9cc;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         y="818.11798"
+         x="-517.81073"
+         id="tspan3873"
+         sodipodi:role="line">J</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="text3867"
