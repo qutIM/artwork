@@ -10,14 +10,13 @@
 * Icon for iDock
 
 ### Icons for tray
-* Default
+* Default (also for Win)
 * Faenza
 * Faenza-Dark
 * Ubuntu Mono Light
 * Ubuntu Mono Dark
 * Oxygen
 * OSX
-* Win7
 
 ### Icons for protocols
 * Jabber
@@ -32,7 +31,7 @@
 
 ### Webkit style
 
-### Kinetic PopUp style
+### PopUp style
 
 ![Build Status](http://storage1.static.itmages.ru/i/12/0820/h_1345465124_7547208_2788690691.png) Sounds:
 -------
