@@ -1,7 +1,7 @@
 [![Build Status](http://storage7.static.itmages.ru/i/12/0820/h_1345466615_7141166_ff2658b37a.png)](http://qutim.org/)
 =============
 
-[![Build Status](http://storage1.static.itmages.ru/i/12/0820/h_1345465124_7547208_2788690691.png)] Icons:
+![Build Status](http://storage6.static.itmages.ru/i/13/0917/h_1379428112_8868844_9e2fc86926.png) Icons:
 -------
 
 ### Main icon
@@ -26,7 +26,7 @@
 * Skype
 * vKontakte
 
-[![Build Status](http://storage1.static.itmages.ru/i/12/0820/h_1345465124_7547208_2788690691.png)] Styles:
+![Build Status](http://storage6.static.itmages.ru/i/13/0917/h_1379428112_8868844_9e2fc86926.png) Styles:
 -------
 
 ### Webkit style
@@ -34,5 +34,5 @@
 
 ### PopUp style
 
-[![Build Status](http://storage1.static.itmages.ru/i/12/0820/h_1345465124_7547208_2788690691.png)] Sounds:
+![Build Status](http://storage6.static.itmages.ru/i/13/0917/h_1379428112_8868844_9e2fc86926.png) Sounds:
 -------
