@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=default
+Name=default-square
 Inherits=KFaenza,oxygen,Humanity,gnome,hicolor
 
 Comment=Qutim project
