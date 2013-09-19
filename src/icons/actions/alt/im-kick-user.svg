@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg2"
    height="1000"
@@ -91,7 +91,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.639"
-     inkscape:cx="500"
+     inkscape:cx="231.61189"
      inkscape:cy="500"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -204,7 +204,7 @@
        d="M 48,27.9375 C 36.376978,27.9375 26.9375,37.376979 26.9375,49 26.9375,60.623019 36.376978,70.0625 48,70.0625 59.623021,70.0625 69.0625,60.623019 69.0625,49 69.0625,37.376979 59.623021,27.9375 48,27.9375 z m 0,8.4375 c 6.967085,0 12.625,5.657916 12.625,12.625 0,1.577229 -0.341074,3.045362 -0.875,4.4375 L 43.5625,37.25 C 44.954494,36.715161 46.419083,36.375 48,36.375 z M 36.40625,44.1875 52.8125,60.59375 C 51.320395,61.218498 49.718363,61.625 48,61.625 41.032916,61.625 35.375,55.967082 35.375,49 c 0,-1.714686 0.407579,-3.320374 1.03125,-4.8125 z"
        transform="matrix(10.421774,0,0,10.421774,251.38331,290.7523)" />
     <path
-       style="fill:url(#linearGradient3330);fill-opacity:1;stroke:#a00000;stroke-width:10.42177391;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:url(#linearGradient3330);fill-opacity:1;stroke:#a00000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 751.62848,577.3511 c -117.9328,0 -213.64637,95.71357 -213.64637,213.64637 0,117.93311 95.71357,213.64673 213.64637,213.64673 117.9328,0 213.64637,-95.71362 213.64637,-213.64673 0,-117.9328 -95.71357,-213.64637 -213.64637,-213.64637 z m 0,76.30228 c 75.81392,0 137.34409,61.53017 137.34409,137.34409 0,20.48848 -4.58245,39.87611 -12.63755,57.34613 L 694.16334,666.29084 c 17.49504,-8.08366 36.938,-12.63746 57.46514,-12.63746 z m -123.03737,76.54065 183.95994,183.84113 c -18.37192,9.12219 -39.03132,14.30598 -60.92257,14.30598 -75.81392,0 -137.34408,-61.53017 -137.34408,-137.34367 0,-21.85342 5.21339,-42.45519 14.30671,-60.80344 z"
        id="path2424"
        inkscape:connector-curvature="0" />
