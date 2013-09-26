@@ -15,7 +15,7 @@
    id="svg2"
    height="1000"
    width="1000"
-   sodipodi:docname="list-remove.svg">
+   sodipodi:docname="list-remove-user.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -70,8 +70,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.631"
-     inkscape:cx="285.26149"
-     inkscape:cy="476.22821"
+     inkscape:cx="500"
+     inkscape:cy="500"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,20 +94,12 @@
        id="guide3221" />
     <sodipodi:guide
        orientation="0,1"
-       position="125.25891,1000.051"
-       id="guide3223" />
-    <sodipodi:guide
-       orientation="0,1"
        position="-389.91888,499.01535"
        id="guide3224" />
     <sodipodi:guide
        orientation="1,0"
        position="499.01535,349.51278"
        id="guide3226" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="-499.01535,256.57874"
-       id="guide3228" />
     <sodipodi:guide
        orientation="0,1"
        position="-909.13728,0"
@@ -150,7 +142,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.98999999;fill:url(#linearGradient3001);fill-opacity:1;fill-rule:evenodd;stroke:#a00000;stroke-width:19.82168961;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:0.98999999;fill:url(#linearGradient3001);fill-opacity:1;fill-rule:evenodd;stroke:#a00000;stroke-width:20;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 943.85739,693.12756 0,-305.78672 -887.71478,0 0,305.78672 z"
        id="path7165"
        sodipodi:nodetypes="ccccc" />

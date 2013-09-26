@@ -20,16 +20,6 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3806"
-       id="linearGradient3812"
-       x1="52"
-       y1="28"
-       x2="52"
-       y2="91.007935"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(20.793434,0,0,20.793434,-497.08482,-446.51609)" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient3806">
       <stop
          style="stop-color:#fff6d5;stop-opacity:1;"
@@ -63,29 +53,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3806-4">
-      <stop
-         style="stop-color:#fff6d5;stop-opacity:1;"
-         offset="0"
-         id="stop3808-8" />
-      <stop
-         style="stop-color:#fff6d5;stop-opacity:0;"
-         offset="1"
-         id="stop3810-8" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3290-7-4">
-      <stop
-         id="stop3292-2-0"
-         offset="0"
-         style="stop-color:#ba0000;stop-opacity:1;" />
-      <stop
-         id="stop3294-3-9"
-         offset="1"
-         style="stop-color:#ff331e;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3806"
        id="linearGradient3067"
        gradientUnits="userSpaceOnUse"
@@ -94,25 +61,6 @@
        y1="6.8564072"
        x2="65.931267"
        y2="126.76496" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3290-7-4"
-       id="linearGradient3070"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-104.80417,106.81807,0,-675.91919,2123.2129)"
-       x1="11"
-       y1="11.015625"
-       x2="19"
-       y2="11.015625" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3806-4"
-       id="linearGradient3072"
-       gradientUnits="userSpaceOnUse"
-       x1="499.01535"
-       y1="130.95543"
-       x2="499.01535"
-       y2="1052.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -121,9 +69,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3155"
-     inkscape:cx="-3.9619669"
-     inkscape:cy="465.13471"
+     inkscape:zoom="0.631"
+     inkscape:cx="500"
+     inkscape:cy="500"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
