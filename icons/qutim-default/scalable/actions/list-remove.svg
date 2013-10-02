@@ -1,21 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs>
-<linearGradient gradientTransform="translate(-4.03906 52.36218)" xlink:href="#linearGradient3806" id="linearGradient3819" y1="328.653" y2="650.487" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(.01578 0 0 .01613 .04463 1035.9598)" xlink:href="#linearGradient3806" id="linearGradient3819" y1="328.653" y2="650.487" x2="0" gradientUnits="userSpaceOnUse"/>
 <linearGradient id="linearGradient3806">
 <stop offset="0" stop-color="#fff6d5"/>
 <stop offset="1" stop-color="#fff6d5" stop-opacity="0"/>
 </linearGradient>
-<linearGradient gradientTransform="matrix(-72.19261 -74.68038 76.11543 -73.57985 746.74749 2470.9853)" xlink:href="#linearGradient3290-7" id="linearGradient3001" y1="7.94" x1="11.889" y2="14.026" gradientUnits="userSpaceOnUse" x2="18.092"/>
+<linearGradient gradientTransform="matrix(-1.11345 -1.15182 1.17395 -1.13485 11.80566 1073.6285)" xlink:href="#linearGradient3290-7" id="linearGradient3001" y1="9.079" x1="12.991" y2="12.485" gradientUnits="userSpaceOnUse" x2="16.581"/>
 <linearGradient id="linearGradient3290-7">
 <stop offset="0" stop-color="#ba0000"/>
 <stop offset="1" stop-color="#ff331e"/>
 </linearGradient>
 </defs>
-<g transform="translate(0 -52.36218)">
-<path opacity=".08" fill-rule="evenodd" d="m26.6385,392.3613 0,365.1844 946.7231,0 0-365.1844z"/>
-<path opacity=".15" fill-rule="evenodd" d="m43.5364,409.2245 0,331.3084 912.9271,0 0-331.3084z"/>
-<path opacity=".3" fill-rule="evenodd" d="m64.6445,719.2371 870.711,0 0-288.8743-870.711,0z"/>
-<path opacity=".99" fill="url(#linearGradient3001)" fill-rule="evenodd" stroke="#a00000" stroke-width="20" d="m943.8574,693.1276 0-305.7867-887.7148,0 0,305.7867z"/>
-<path opacity=".5" fill="url(#linearGradient3819)" fill-rule="evenodd" d="m943.5078,387.3309-887.0156,0 0,62 887.0156,0z"/>
+<g transform="translate(0 -1036.3622)">
+<path opacity=".3" direction="ltr" block-progression="tb" fill-rule="evenodd" color="#000000" d="m1,1042.3438 0,.1562 0,4.7188 0,.1562 .1562,0 13.6875,0 .1562,0 0-.1562 0-4.7188 0-.1562-.1562,0-13.6875,0-.1562,0z"/>
+<path opacity=".99" fill="url(#linearGradient3001)" fill-rule="evenodd" stroke="#a00000" stroke-width=".308" d="m14.8458,1046.208 0-4.7162-13.6915,0 0,4.7162z"/>
+<path opacity=".5" fill="url(#linearGradient3819)" fill-rule="evenodd" d="m15,1041.3622-14,0 0,1 14,0z"/>
 </g>
 </svg>
