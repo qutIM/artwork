@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3301"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="document-properties.svg"
+   inkscape:export-filename="C:\Users\Madnester\Desktop\qutIM\share\icons\QutIM default\16x16\Actions\im-status-message-edit.png"
+   inkscape:export-xdpi="5.625"
+   inkscape:export-ydpi="5.625">
+  <defs
+     id="defs3303">
+    <linearGradient
+       id="linearGradient812">
+      <stop
+         id="stop814"
+         offset="0"
+         style="stop-color:#fcf4d0;stop-opacity:1" />
+      <stop
+         id="stop816"
+         offset="1"
+         style="stop-color:#c59d35;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient918"
+       inkscape:collect="always">
+      <stop
+         id="stop920"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop922"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient956">
+      <stop
+         id="stop958"
+         offset="0"
+         style="stop-color:#628bd6;stop-opacity:1" />
+      <stop
+         style="stop-color:#29508b;stop-opacity:1;"
+         offset="0.30559233"
+         id="stop964" />
+      <stop
+         id="stop960"
+         offset="1"
+         style="stop-color:#84aede;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient974">
+      <stop
+         style="stop-color:#d63838;stop-opacity:1;"
+         offset="0"
+         id="stop976" />
+      <stop
+         id="stop978"
+         offset="0.30559233"
+         style="stop-color:#c52626;stop-opacity:1;" />
+      <stop
+         style="stop-color:#fd9797;stop-opacity:1;"
+         offset="1"
+         id="stop980" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient990">
+      <stop
+         id="stop992"
+         offset="0"
+         style="stop-color:#b0b0b0;stop-opacity:1;" />
+      <stop
+         id="stop994"
+         offset="1"
+         style="stop-color:#ededed;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient918"
+       id="linearGradient3083"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0078321,0.00816833,-0.00792049,0.00807718,19.016274,1041.4283)"
+       x1="-743.57953"
+       y1="1288.5868"
+       x2="-654.71936"
+       y2="1259.6013" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient812"
+       id="radialGradient3087"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02143634,0.01014577,-0.03626648,0.08149511,67.63497,934.98217)"
+       cx="-543.87335"
+       cy="1468.4442"
+       fx="-543.87335"
+       fy="1468.4442"
+       r="259.40854" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient990"
+       id="linearGradient3090"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.01131651,0,0,0.01131262,743.08315,707.37768)"
+       x1="-322.45477"
+       y1="631.15619"
+       x2="-722.22174"
+       y2="530.33685" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient974"
+       id="linearGradient3093"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0078321,0.00816833,-0.00792049,0.00807718,19.016274,1041.4283)"
+       x1="-211.15808"
+       y1="336.77472"
+       x2="-866.2608"
+       y2="341.81567" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient956"
+       id="linearGradient3100"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0078321,0.00816833,-0.00792049,0.00807718,19.016274,1041.4283)"
+       x1="-282.44284"
+       y1="884.21259"
+       x2="-751.15802"
+       y2="888.17242" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="39.4375"
+     inkscape:cx="3.6513471"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3031"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3306">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <path
+       style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#656565;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:0.56599999999999995;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       d="m 12.31693,1037.0115 c -0.505935,-0.5275 -1.353349,-0.4704 -1.887328,0.074 l -1.6670162,1.7001 c -0.2061399,-0.038 -0.427145,0.022 -0.5855899,0.1836 l -0.5432961,0.5536 c -0.1584458,0.1619 -0.2203628,0.3888 -0.1846774,0.6021 l -4.4008227,4.4879 -5.55e-5,0.016 c -0.00894,0.016 -0.024978,0.023 -0.024978,0.023 l -0.083187,0.1352 -1.6571824,5.7749 0.049044,0.2597 0.1226954,0.1598 0.1171959,0.039 0.174442,0.059 5.6288059,-1.724 c 0,0 0.096614,-0.051 0.1299522,-0.084 l 0.00356,0 4.4010698,-4.4878 c 0.206123,0.038 0.426843,-0.023 0.585094,-0.1838 l 0.543294,-0.5542 c 0.158256,-0.1614 0.220221,-0.3882 0.184676,-0.6013 l 0.637108,-0.6497 1.030157,-1.0508 c 0.53398,-0.5441 0.598728,-1.4172 0.09279,-1.9453 l -2.665613,-2.7799 z m -0.396025,0.4039 2.66561,2.7802 c 0.271257,0.2829 0.25523,0.7826 -0.08836,1.1331 l -1.030157,1.0504 -0.75938,0.7744 -0.04495,0.3484 c 0.0229,0.04 0.01978,0.089 -0.01745,0.1292 l -0.543293,0.5542 c -0.03724,0.036 -0.08541,0.04 -0.124676,0.016 l -0.338182,0.041 -4.4859682,4.5747 -2.7083841,0.8298 -0.00475,0.016 -2.5426986,0.7785 1.5585784,-5.4309 4.5062628,-4.5954 0.044963,-0.3484 c -0.02295,-0.04 -0.01981,-0.091 0.017194,-0.1308 l 0.543296,-0.5539 c 0.036994,-0.037 0.085558,-0.04 0.124883,-0.016 l 0.3381809,-0.041 1.7895388,-1.8252 c 0.343604,-0.3501 0.828439,-0.3613 1.099694,-0.079 z"
+       id="path869"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssccccccccccccccssccssccssscccsscccccccccssccss"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <path
+       style="fill:url(#linearGradient3100);fill-opacity:1;stroke:none"
+       d="m 9.5953655,1038.3402 -6.3513278,6.4771 4.0683294,4.243 6.3513319,-6.477 z"
+       id="rect10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <rect
+       ry="0.38786066"
+       y="713.2572"
+       x="733.9458"
+       height="1.5514426"
+       width="6.4574175"
+       id="rect998"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.69209592,0.72180554,-0.70014724,0.71399849,0,0)"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <path
+       style="fill:url(#linearGradient3093);fill-opacity:1;stroke:none"
+       d="m 12.119053,1037.2136 c -0.388596,-0.4054 -1.05469,-0.3714 -1.493489,0.077 l -2.692966,2.7463 4.068333,4.2429 2.692969,-2.7464 c 0.438794,-0.4473 0.479206,-1.1339 0.09061,-1.5391 l -2.665459,-2.7799 z"
+       id="path19"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <rect
+       style="fill:url(#linearGradient3090);fill-opacity:1;stroke:none"
+       id="rect12"
+       width="6.4574175"
+       height="1.5514426"
+       x="733.90063"
+       y="713.11487"
+       ry="0.38786066"
+       transform="matrix(0.69209592,0.72180554,-0.70014724,0.71399849,0,0)"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <path
+       style="fill:url(#radialGradient3087);fill-opacity:1;stroke:none"
+       d="m 3.2072296,1044.8619 -1.6573061,5.7744 0.122529,0.1598 5.6233327,-1.7221 c 0,0 0.9947011,-0.971 0.5348463,-1.7114 -0.4598632,-0.7401 -1.3215397,-0.116 -1.3215397,-0.116 l -0.075048,-0.1658 c 0,0 0.6626374,-0.97 0.1490961,-1.4759 -0.5135357,-0.5064 -1.4716493,0.1595 -1.4716493,0.1595 l -0.1508502,-0.049 c 0,0 0.5665903,-1.019 -0.062345,-1.4271 -0.6289276,-0.4078 -1.6910709,0.5737 -1.6910709,0.5737 z"
+       id="path836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccczcczcczc"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#1a1807;fill-opacity:1;stroke:none"
+       d="m 4.002171,1049.0291 c -0.4780414,-0.4989 -1.1623522,-0.6804 -1.8444989,-0.5598 l -0.6262449,2.1826 0.1226968,0.1595 2.8437417,-0.871 c -0.083973,-0.3399 -0.2484988,-0.6537 -0.4956927,-0.9113 z"
+       id="path836-4"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+    <path
+       style="fill:url(#linearGradient3083);fill-opacity:1;stroke:none"
+       d="m 2.2736153,1048.3959 0.9946281,-3.4905 c 0,0 0.1958824,-0.2228 0.7627383,-0.4822 0.5668568,-0.2591 0.7775628,-0.095 0.7775628,-0.095 l -1.9803279,4.0496 c 0,0 -0.1546894,-0.016 -0.2822895,-0.018 -0.127602,0 -0.2723118,0.036 -0.2723118,0.036 z"
+       id="path908"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczcczc"
+       inkscape:export-filename="D:\Hobby\QutIM\pencil16.png"
+       inkscape:export-xdpi="1.1016982"
+       inkscape:export-ydpi="1.1016982" />
+  </g>
+</svg>
