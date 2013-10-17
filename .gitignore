@@ -5,3 +5,9 @@ CMakeLists.txt.user
 qtcreator-build
 *.user
 build
+
+#ignoring Win#
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
